@@ -1,4 +1,11 @@
 # Expressly Web App
+Expressly is a responsive social media web application designed to facilitate seamless user interaction and dynamic content sharing. Built using JavaScript, ReactJS, NodeJS, ExpressJS, Redux, MongoDB, HTML, and CSS, Expressly offers a user-friendly platform for connecting with friends and sharing moments.
+
+### Key features:
+* Responsive Design: Ensures optimal user experience across various devices and screen sizes.
+* Dynamic Content Rendering: Facilitates real-time updates and content sharing, enhancing user engagement.
+* Secure Password Encryption: Expressly utilizes bcrypt, a robust hashing algorithm, to securely encrypt user passwords. This ensures that sensitive user credentials are protected against unauthorized access and data breaches.
+* Efficient Data Management: Utilizes MongoDB for efficient data storage and retrieval, ensuring scalability and performance.
 
 ### Login funtionalities
 ![Screenshot (520)](https://github.com/ChaitanyaDolas/Expressly-web-app/assets/108191480/6bc56a49-c5db-4e10-bfc4-362b1dd87abc)
