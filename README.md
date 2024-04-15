@@ -19,6 +19,11 @@ Expressly is a responsive social media web application designed to facilitate se
 ### Dark Mode and Light Mode
 ![Screenshot (524)](https://github.com/ChaitanyaDolas/Expressly-web-app/assets/108191480/b32f3433-17c9-48b7-81c0-792a88cddace)
 
+### Responsive Design
+![Screenshot 2024-04-15 163338](https://github.com/ChaitanyaDolas/Expressly-web-app/assets/108191480/d61ee167-dc93-416b-9923-b04a66905ee3)
+![Screenshot 2024-04-15 163431](https://github.com/ChaitanyaDolas/Expressly-web-app/assets/108191480/d2b577f6-27f2-4f5b-a5d0-f550e83208f8)
+
+
 ### Feeds page
 ![Screenshot (525)](https://github.com/ChaitanyaDolas/Expressly-web-app/assets/108191480/716d4b78-51d8-41b3-a758-0a2954d154d2)
 
